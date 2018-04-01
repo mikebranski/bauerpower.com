@@ -6256,3 +6256,7 @@ header nav.active .gla_logo {
 .translucent_block {
 	background-color: rgba(238, 238, 238, .9);
 }
+
+.gla_partner_box img {
+	filter: grayscale(100%) brightness(10);
+}
