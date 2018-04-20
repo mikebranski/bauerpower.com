@@ -6259,4 +6259,14 @@ header nav.active .gla_logo {
 
 .gla_partner_box img {
 	filter: grayscale(100%) brightness(10);
+	max-width: 80%;
+}
+
+.owl-wrapper {
+	align-items: center;
+	display: flex !important;
+}
+
+.gla_partner_box {
+	height: 100%;
 }
