@@ -6253,6 +6253,10 @@ header nav.active .gla_logo {
 
 
 /* Customizations */
+.gla_image_bck_pinned_top {
+	background-position: top center !important;
+}
+
 .translucent_block {
 	background-color: rgba(238, 238, 238, .9);
 }
